@@ -1,0 +1,62 @@
+
+Relatório de Análise de Vagas de TI - 2025 
+
+ Este relatório sintetiza a análise de 8 vagas de TI e Product Relatório de Análise de Vagas de TI
+Este relatório sintetiza a análise de 8 vagas de TI na região de Limeira/SP e cidades próximas, coletadas no LinkedIn e sites de carreira. O objetivo é identificar competências
+técnicas e comportamentais exigidas, faixas salariais praticadas e tendências emergentes, além de propor um plano de ação para desenvolvimento profissional.
+
+1. Análise de Competências: 
+
+Foram identificadas competências técnicas (hard skills) e comportamentais (soft skills) mais
+recorrentes nas vagas analisadas: 
+
+	•	Hard Skills mais exigidas: Suporte técnico
+(hardware/software), Redes, Administração de Sistemas, ERP, Metodologias Ágeis (Scrum,
+Kanban), Design Thinking, Gestão de Backlog e Produto. 
+
+	•	Hard Skills desejáveis: Cloud
+Computing, Segurança da Informação, Automação de Processos, Métricas Data-Driven,
+Certificações (ITIL, CCNA). 
+
+	•	Soft Skills mais recorrentes: Comunicação clara, Trabalho em
+equipe, Proatividade, Organização, Resiliência, Liderança e Tomada de decisão baseada em
+dados.
+
+2. Análise Salarial: 
+
+Vaga	Salário Estimado/Informado	Média de Mercado	Média  Glassdoor e Indeed (2025).
+Téc. Suporte JR 	R$ 2.000-3.500	R$ 2.508	 R$ 2.508 (Glassdoor)
+Anal. Suporte TI Piracicaba/SP	 R$ 2.800-3.000	R$ 2.900	Similar: ~R$ 2.900 (região)
+Anal. TI Pleno Limeira/SP	R$ 4.000-6.000	R$ 5.634	Campinas: ~R$ 5.634 (Indeed/Glassdoor)
+Assistente TI Limeira/SP	R$ 2.200-2.600	R$ 2.508	 Média Suporte JR: ~R$ 2.500-3.000 (Glassdoor)
+Encarregado TI Limeira/SP	 R$ 4.000-4.253	 R$ 5.500	 Coordenação TI: ~R$ 5.500-7.000 (Glassdoor)
+Anal. TI Piracicaba Piracicaba/SP	R$ 2.100-6.000	R$ 5.634	Campinas/Piracicaba: ~R$ 5.600 (Indeed)
+PO VR Software Limeira/SP	R$ 4.686	R$ 8.700	PO Pleno SP: ~R$ 8.700 (Glassdoor)
+PO Totvs Campinas/SP	R$ 5.000-7.500	R$ 7.000	PO Pleno SP: ~R$ 8.000+ (Glassdoor)
+
+3. Análise de Tendências: 
+
+A análise das vagas indica algumas tendências na área de TI da região: 
+
+	•	Forte demanda por suporte técnico e analistas de TI com conhecimentos generalistas. 
+
+	•	Crescimento da busca por Product Owners com experiência em metodologias ágeis e visão estratégica de produto. 
+
+	•	Valorização crescente de Cloud Computing, Segurança da Informação e Automação de
+Processos. 
+	•	Soft skills ligadas a comunicação, liderança e resiliência aparecem de forma
+recorrente, sendo diferenciais importantes. 
+
+	•	A defasagem salarial entre vagas do interior (ex:Limeira) e grandes centros (ex: Campinas, São Paulo) ainda é significativa, especialmente para cargos estratégicos como Product Owner.
+
+4. Plano de Ação (6 meses): 
+Com base na análise, foram definidas 3 competências prioritárias para desenvolvimento nos próximos 6 meses, alinhadas ao planejamento de carreira: 
+
+	•	Hard Skill 1: Cloud Computing (AWS
+ou Azure) – cada vez mais exigido nas vagas de Analista de TI. 
+
+	•	Hard Skill 2: Metodologias Ágeis
+e Gestão de Backlog – fundamentais para a transição a Product Owner. 
+
+	•	Soft Skill: Comunicação e Liderança , competência transversal presente em quase todas as vagas, essencial para coordenação e atuação como PO. Esses focos conectam o aprendizado técnico ao desenvolvimento comportamental, aproximando o perfil do profissional às exigências atuais do mercado de TI. 
+
